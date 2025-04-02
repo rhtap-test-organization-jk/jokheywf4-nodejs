@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jokheywf4-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/jokheywf4-nodejs
